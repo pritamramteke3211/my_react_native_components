@@ -1,0 +1,4 @@
+{
+    "name": "my app",
+    "plugins": ["react-native-compressor"]
+}
